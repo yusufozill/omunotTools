@@ -1,0 +1,56 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "W3mTvMXS3jdjR6jpG9sSul2Qgv0",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "GZrXCffdB1X6FtRI7zcD7TaXqU8",
+        "id": "dwbymwI3hPk",
+        "snippet": {
+          "publishedAt": "2020-11-05T21:37:05Z",
+          "channelId": "UCcPi-EZC2w588a0-CD0P0_w",
+          "title": "COVID",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dwbymwI3hPk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dwbymwI3hPk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dwbymwI3hPk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dwbymwI3hPk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dwbymwI3hPk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yusuf Özil",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "COVID",
+            "description": ""
+          },
+          "defaultAudioLanguage": "tr"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }
